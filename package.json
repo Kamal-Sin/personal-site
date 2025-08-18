@@ -1,7 +1,9 @@
 {
-  "name": "portfolio_nextjs",
+  "name": "kamal-singh-portfolio",
   "version": "0.1.0",
   "private": true,
+  "author": "Kamal Singh",
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "set NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && next build && next export",

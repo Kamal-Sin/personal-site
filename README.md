@@ -1,17 +1,22 @@
-## Personal Portfolio
+## Kamal Singh — Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+This is my personal portfolio built with Next.js and styled-components.
 
+Preview:
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Tech stack:
+- Next.js 10
+- React 17
+- styled-components
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+Getting started:
+- Install dependencies: `npm install`
+- Run the dev server: `npm run dev`
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+Deployment:
+- Static export: `npm run build` (outputs to `out/`)
+- Node server: `npm run start`
 
-Setup:
-- run ```npm i && npm start```
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+Author:
+- Kamal Singh — `https://github.com/Kamal-Sin`
