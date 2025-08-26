@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "dev": "set NODE_OPTIONS=--openssl-legacy-provider && next dev",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && next build && next export",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && next build",
     "start": "next start"
   },
   "dependencies": {
